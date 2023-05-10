@@ -20,7 +20,7 @@ L'objectif de cet exercice est de créer une mini API en JavaScript avec Node.js
 
 ## Niveaux
 
-## $\colorbox{yellow}{{\color{black}{Jaune => Bonus facultatif}}}$
+
 
 ## User Stories possibles
 
@@ -31,12 +31,11 @@ L'objectif de cet exercice est de créer une mini API en JavaScript avec Node.js
 - En tant qu'utilisateur, je veux pouvoir ajouter une nouvelle carte Pokémon en utilisant le formulaire d'ajout disponible sur la page d'accueil. Après l'ajout, la liste de toutes les cartes doit être mise à jour avec la nouvelle carte ajoutée.
 - En tant qu'utilisateur, je veux recevoir des messages d'erreur clairs en cas d'erreurs de saisie ou de problèmes de connexion à l'API.
 
-- ## $\colorbox{yellow}{{\color{black}{ ------------------------------------------- }}}$
+
 
 - En tant que développeur, je veux que l'API soit sécurisée en utilisant des méthodes d'authentification pour les requêtes de modification et de suppression.
 - En tant que développeur, je veux que l'API soit bien documentée avec des instructions d'utilisation et des exemples de code pour faciliter la maintenance et le développement futur.
 
-- ## $\colorbox{yellow}{{\color{black}{-------------------------------------------}}}$
 
 ## Pistes
 
